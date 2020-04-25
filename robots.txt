@@ -1,0 +1,8 @@
+# robots.txt for https://bladence.dev/
+
+User-agent: *
+Disallow: /assets/*
+Disallow: /404.html
+Disallow: /.nojekyll
+
+Sitemap: https://bladence.dev/sitemap.xml
